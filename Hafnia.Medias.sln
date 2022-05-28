@@ -3,9 +3,42 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafnia.Integrations.Reddit", "src\integrations\Hafnia.Integrations.Reddit\Hafnia.Integrations.Reddit.csproj", "{B4C65612-06DE-4328-BDB9-33D004F76815}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integrations", "Integrations", "{8A08C7F2-5880-4FE6-863E-5B0986A5C8B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafnia.Integrations.Reddit.Tests", "tests\integrations\Hafnia.Integrations.Reddit.Tests\Hafnia.Integrations.Reddit.Tests.csproj", "{7A403787-7E6F-4D1C-B2DC-489A7360D911}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{1C1193B2-5E24-4512-B39D-6EDAF7835067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafnia.Medias.Tests.Shared", "tests\Hafnia.Medias.Tests.Shared\Hafnia.Medias.Tests.Shared.csproj", "{B57BFB66-883B-44F7-96E9-7036D9392384}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C65612-06DE-4328-BDB9-33D004F76815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C65612-06DE-4328-BDB9-33D004F76815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C65612-06DE-4328-BDB9-33D004F76815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C65612-06DE-4328-BDB9-33D004F76815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A403787-7E6F-4D1C-B2DC-489A7360D911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A403787-7E6F-4D1C-B2DC-489A7360D911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A403787-7E6F-4D1C-B2DC-489A7360D911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A403787-7E6F-4D1C-B2DC-489A7360D911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57BFB66-883B-44F7-96E9-7036D9392384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57BFB66-883B-44F7-96E9-7036D9392384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57BFB66-883B-44F7-96E9-7036D9392384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57BFB66-883B-44F7-96E9-7036D9392384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B4C65612-06DE-4328-BDB9-33D004F76815} = {8A08C7F2-5880-4FE6-863E-5B0986A5C8B2}
+		{7A403787-7E6F-4D1C-B2DC-489A7360D911} = {1C1193B2-5E24-4512-B39D-6EDAF7835067}
+		{B57BFB66-883B-44F7-96E9-7036D9392384} = {1C1193B2-5E24-4512-B39D-6EDAF7835067}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {35B52267-E683-4DD6-910C-DFA3E4FB5F2C}
