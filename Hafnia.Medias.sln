@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{1C1193B2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafnia.Medias.Tests.Shared", "tests\Hafnia.Medias.Tests.Shared\Hafnia.Medias.Tests.Shared.csproj", "{B57BFB66-883B-44F7-96E9-7036D9392384}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafnia.Integrations.Shared", "src\integrations\Hafnia.Integrations.Shared\Hafnia.Integrations.Shared.csproj", "{D2B1E559-F2B7-4BC6-A16C-99345D95323B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{B57BFB66-883B-44F7-96E9-7036D9392384}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B57BFB66-883B-44F7-96E9-7036D9392384}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B57BFB66-883B-44F7-96E9-7036D9392384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B1E559-F2B7-4BC6-A16C-99345D95323B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B1E559-F2B7-4BC6-A16C-99345D95323B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B1E559-F2B7-4BC6-A16C-99345D95323B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B1E559-F2B7-4BC6-A16C-99345D95323B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{B4C65612-06DE-4328-BDB9-33D004F76815} = {8A08C7F2-5880-4FE6-863E-5B0986A5C8B2}
 		{7A403787-7E6F-4D1C-B2DC-489A7360D911} = {1C1193B2-5E24-4512-B39D-6EDAF7835067}
 		{B57BFB66-883B-44F7-96E9-7036D9392384} = {1C1193B2-5E24-4512-B39D-6EDAF7835067}
+		{D2B1E559-F2B7-4BC6-A16C-99345D95323B} = {8A08C7F2-5880-4FE6-863E-5B0986A5C8B2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {35B52267-E683-4DD6-910C-DFA3E4FB5F2C}

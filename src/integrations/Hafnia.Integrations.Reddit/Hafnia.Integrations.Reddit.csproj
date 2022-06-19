@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hafnia.Integrations.Shared\Hafnia.Integrations.Shared.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+        <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleToAttribute">
+			<_Parameter1>Hafnia.Integrations.Reddit.Tests</_Parameter1>
+        </AssemblyAttribute>
+	</ItemGroup>
+
 </Project>

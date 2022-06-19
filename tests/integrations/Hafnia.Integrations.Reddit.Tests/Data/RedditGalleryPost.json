@@ -1,0 +1,393 @@
+﻿[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "SUBREDDIT",
+            "selftext": "",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "is_gallery": true,
+            "title": "POST TITLE",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Self"
+              }
+            ],
+            "subreddit_name_prefixed": "r/SUBREDDIT",
+            "hidden": false,
+            "pwls": 0,
+            "link_flair_css_class": "self",
+            "downs": 0,
+            "thumbnail_height": 140,
+            "top_awarded_type": null,
+            "parent_whitelist_status": "no_ads",
+            "name": "t3_abc123",
+            "media_metadata": {
+              "hjkloiuytrewq": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 1706,
+                    "x": 960,
+                    "u": "https://preview.redd.it/hjkloiuytrewq.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=2bc50993c0d2732e085619fe72f7fd08436ffc1a"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/hjkloiuytrewq.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ad428d5560d5455bb9c2fdc5ba015dc756cc7fc5"
+                  }
+                ],
+                "s": {
+                  "y": 1920,
+                  "x": 1080,
+                  "u": "https://preview.redd.it/hjkloiuytrewq.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=f44de3c4945cd351a955015466e0ea3b77417b47"
+                },
+                "id": "hjkloiuytrewq"
+              },
+              "zxcvbnmasdfgh": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 1706,
+                    "x": 960,
+                    "u": "https://preview.redd.it/zxcvbnmasdfgh.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=0acc21a59523c5dba0d26e41d4f9652daf48584b"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/zxcvbnmasdfgh.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=b1374fee9ff0caf1e4622c09abd0f4f80f78900b"
+                  }
+                ],
+                "s": {
+                  "y": 1920,
+                  "x": 1080,
+                  "u": "https://preview.redd.it/zxcvbnmasdfgh.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=bd10c1e0288d86d4580373a774acfa1b4cb33b2b"
+                },
+                "id": "zxcvbnmasdfgh"
+              },
+              "qwertyuiopasd": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 1706,
+                    "x": 960,
+                    "u": "https://preview.redd.it/qwertyuiopasd.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3efc17488ac4d4686f58168cfa54ee63cbb9284d"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/qwertyuiopasd.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=c6c1af5f3b7235680c77dd7887bfb7d220454d71"
+                  }
+                ],
+                "s": {
+                  "y": 1920,
+                  "x": 1080,
+                  "u": "https://preview.redd.it/qwertyuiopasd.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=b6fb6ce3a1641fd0f801f2dec29b1173656124bf"
+                },
+                "id": "qwertyuiopasd"
+              },
+              "1234567890123": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 1706,
+                    "x": 960,
+                    "u": "https://preview.redd.it/1234567890123.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=a4f348b7bfd7c5e87fad21863503272d0c6f74b1"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/1234567890123.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d081aae1d79a8412d0998b4156556ef7d19b215c"
+                  }
+                ],
+                "s": {
+                  "y": 1920,
+                  "x": 1080,
+                  "u": "https://preview.redd.it/1234567890123.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=6dbad34e1c4457ebc30a899fede1b7adb089b26b"
+                },
+                "id": "1234567890123"
+              },
+              "qazwsxedcrfvt": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                 {
+                    "y": 540,
+                    "x": 960,
+                    "u": "https://preview.redd.it/qazwsxedcrfvt.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=e71ae86d96bd7393184716ebe7c168d1370293f2"
+                  },
+                  {
+                    "y": 607,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/qazwsxedcrfvt.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=419ac756e1a1381180240aca2df3c08a3b1f7932"
+                  }
+                ],
+                "s": {
+                  "y": 1080,
+                  "x": 1920,
+                  "u": "https://preview.redd.it/qazwsxedcrfvt.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=0121e139d72229f306ddad542c55c9bc4647672d"
+                },
+                "id": "qazwsxedcrfvt"
+              },
+              "mkonjibhuvgyc": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 540,
+                    "x": 960,
+                    "u": "https://preview.redd.it/mkonjibhuvgyc.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=97d6c8acde8d29afcdfe5370bbd3ebc67f3eda06"
+                  },
+                  {
+                    "y": 607,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/mkonjibhuvgyc.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=8dc65ec714d88ec72362c615c6c8985151025c9b"
+                  }
+                ],
+                "s": {
+                  "y": 1080,
+                  "x": 1920,
+                  "u": "https://preview.redd.it/mkonjibhuvgyc.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=73a47e9e117eff81bd9677356fd36c1a7ec24adf"
+                },
+                "id": "mkonjibhuvgyc"
+              }
+            },
+            "hide_score": false,
+            "quarantine": false,
+            "link_flair_text_color": "dark",
+            "upvote_ratio": 0.91,
+            "author_flair_background_color": null,
+            "ups": 31,
+            "domain": "reddit.com",
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_abcd1234",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "gallery_data": {
+              "items": [
+                {
+                  "caption": "First image",
+                  "media_id": "hjkloiuytrewq",
+                  "id": 147548292
+                },
+                {
+                  "caption": "Second image",
+                  "media_id": "1234567890123",
+                  "id": 147548293
+                },
+                {
+                  "media_id": "qazwsxedcrfvt",
+                  "id": 147548294
+                },
+                {
+                  "caption": "Testable image",
+                  "media_id": "mkonjibhuvgyc",
+                  "id": 147548295
+                },
+                {
+                  "media_id": "qwertyuiopasd",
+                  "id": 147548296
+                },
+                {
+                  "caption": "Last image",
+                  "media_id": "zxcvbnmasdfgh",
+                  "id": 147548297
+                }
+              ]
+            },
+            "link_flair_text": "Self",
+            "can_mod_post": false,
+            "score": 31,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/XgFMmsas0cYTHD-kUH8fHStv1hfkRc5MYi__BHOTtNg.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1653923100.0,
+            "link_flair_type": "richtext",
+            "wls": 0,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "allow_live_comments": false,
+            "selftext_html": null,
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/abc123",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "a28b130c-a5e1-11ea-9f1e-1ec8e6f1e4e9",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_abcde",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#555555",
+            "id": "abc123",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "AUTHOR",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/SUBREDDIT/comments/abc123/POST_TITLE/",
+            "whitelist_status": "no_ads",
+            "stickied": false,
+            "url": "https://www.reddit.com/gallery/abc123",
+            "subreddit_subscribers": 123456,
+            "created_utc": 1653923100.0,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_abcde",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "SUBREDDIT",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cdef456",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "REPLIER",
+            "can_mod_post": false,
+            "created_utc": 1653923255.0,
+            "send_replies": true,
+            "parent_id": "t3_abc123",
+            "score": 1,
+            "author_fullname": "t2_cdef4567",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "COMMENT BODY",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_cdef456",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;COMMENT BODY&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": true,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/SUBREDDIT/comments/abc123/POST_TITLE/cdef456/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1653923255.0,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_abc123",
+            "subreddit_name_prefixed": "r/SUBREDDIT",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]
