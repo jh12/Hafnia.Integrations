@@ -13,10 +13,10 @@ public record RedditGallery
 
 public record RedditGalleryItem
 (
-    string? Caption, 
-    string MediaId, 
-    string MimeType, 
-    string Extension, 
+    string? Caption,
+    string MediaId,
+    string MimeType,
+    string Extension,
     Uri DownloadUri,
     int Height,
     int Width

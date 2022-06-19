@@ -48,7 +48,7 @@ internal class RedditClient : IRedditClient
 
     public Uri GetPostUri(string id, bool asJson = true)
     {
-        if(asJson)
+        if (asJson)
             return new Uri($"https://www.reddit.com/comments/{id}.json");
 
         return new Uri($"https://www.reddit.com/comments/{id}");
