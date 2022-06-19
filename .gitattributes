@@ -1,0 +1,9 @@
+###############################
+# Git Line Endings            #
+###############################
+# Set default behaviour to automatically normalize line endings.
+* text=auto
+
+*.sln        text eol=crlf
+*.csproj     text eol=crlf
+*.cs         text eol=crlf
