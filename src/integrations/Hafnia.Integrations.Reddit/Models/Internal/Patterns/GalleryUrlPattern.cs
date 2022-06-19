@@ -24,7 +24,11 @@ internal record GalleryUrlPattern : UrlPattern
         RedditGalleryItem[] galleryItems = galleryPost.GalleryItems.Select(g =>
         {
             var metadata = g.Metadata;
-            var source = metadata.Source;
+
+            if (metadata.Source == null)
+                throw new NoSourceException(url, "No source found for gallery item");
+
+            RedditPostMediaMetadataInstance source = metadata.Source!;
             Uri downloadUri = _client.GetImageDownloadUri(metadata.MediaId, metadata.Extension);
 
             return new RedditGalleryItem(g.Caption, g.MediaId, metadata.MimeType, metadata.Extension, downloadUri, source.Height, source.Width);

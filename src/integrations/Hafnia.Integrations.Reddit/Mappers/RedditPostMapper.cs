@@ -44,13 +44,16 @@ internal static class RedditPostMapper
             MediaId: metadata.Id,
             MimeType: metadata.M,
             Extension: MimeHelper.ConvertToExtension(metadata.M),
-            Previews: metadata.P.Select(MapToModel).ToArray(),
+            Previews: metadata.P.Select(MapToModel).ToArray()!,
             Source: MapToModel(metadata.S)
         );
     }
 
-    private static RedditPostMediaMetadataInstance MapToModel(Json.MediaMetadataInstance instance)
+    private static RedditPostMediaMetadataInstance? MapToModel(Json.MediaMetadataInstance? instance)
     {
+        if (instance is null)
+            return null;
+
         return new RedditPostMediaMetadataInstance
         (
             Height: instance.Y,

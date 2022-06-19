@@ -17,7 +17,7 @@ public record RedditPost
 );
 
 public record RedditPostGalleryItem(long Id, string MediaId, string? Caption, RedditPostMediaMetadata Metadata);
-public record RedditPostMediaMetadata(string MediaId, string MimeType, string Extension, RedditPostMediaMetadataInstance[] Previews, RedditPostMediaMetadataInstance Source);
+public record RedditPostMediaMetadata(string MediaId, string MimeType, string Extension, RedditPostMediaMetadataInstance[] Previews, RedditPostMediaMetadataInstance? Source);
 
 public record RedditPostMediaMetadataInstance(int Height, int Width, Uri Uri);
 
