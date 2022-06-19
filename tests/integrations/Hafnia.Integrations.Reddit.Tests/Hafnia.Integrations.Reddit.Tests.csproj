@@ -20,7 +20,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\..\..\src\integrations\Hafnia.Integrations.Reddit\Hafnia.Integrations.Reddit.csproj" />
-		<ProjectReference Include="..\..\Hafnia.Medias.Tests.Shared\Hafnia.Medias.Tests.Shared.csproj" />
+		<ProjectReference Include="..\..\Hafnia.Integrations.Tests.Shared\Hafnia.Integrations.Tests.Shared.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

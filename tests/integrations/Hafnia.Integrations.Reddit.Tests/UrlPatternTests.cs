@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using FluentAssertions;
 using Hafnia.Integrations.Reddit.Models;
-using Hafnia.Medias.Tests.Shared.Helpers;
+using Hafnia.Integrations.Tests.Shared.Helpers;
 using Moq;
 using Moq.Protected;
 

@@ -6,7 +6,7 @@ internal record UnsupportedUrlPattern : UrlPattern
     {
     }
 
-    public override async Task<RedditMedia> GetMediaForUrlAsync(Uri url)
+    public override Task<RedditMedia> GetMediaForUrlAsync(Uri url)
     {
         throw new NotImplementedException("Url pattern marked as unsupported");
     }

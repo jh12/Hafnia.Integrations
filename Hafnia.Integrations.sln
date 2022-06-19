@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hafnia.Integrations.Reddit.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{1C1193B2-5E24-4512-B39D-6EDAF7835067}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hafnia.Medias.Tests.Shared", "tests\Hafnia.Medias.Tests.Shared\Hafnia.Medias.Tests.Shared.csproj", "{B57BFB66-883B-44F7-96E9-7036D9392384}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hafnia.Integrations.Tests.Shared", "tests\Hafnia.Integrations.Tests.Shared\Hafnia.Integrations.Tests.Shared.csproj", "{B57BFB66-883B-44F7-96E9-7036D9392384}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hafnia.Integrations.Shared", "src\integrations\Hafnia.Integrations.Shared\Hafnia.Integrations.Shared.csproj", "{D2B1E559-F2B7-4BC6-A16C-99345D95323B}"
 EndProject
